@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/greedoor/wave.svg-.git" alt="Snake animation" />
+<img src="snake.yml" alt="Snake animation" />
 
 ###
