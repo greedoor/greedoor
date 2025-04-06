@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/firas-mhiri-3a644030a/" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/firas-mhiri-3a644030a/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROp-tVE-R6e5Uw_LRnOl1kC5MMXciei-j0VQ&s" height="25" alt="linkedin logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsApp logo"  />
 </div>
 
@@ -51,8 +51,7 @@
 
 ###
 
-<br clear="both">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andrewhwanpark/andrewhwanpark/main/assets/wave.svg" alt="wave animation" width="100%" />
+</p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
