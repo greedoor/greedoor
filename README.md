@@ -47,11 +47,8 @@
 
 ###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andrewhwanpark/andrewhwanpark/main/assets/wave.svg" alt="wave animation" width="100%" />
-</p>
-
